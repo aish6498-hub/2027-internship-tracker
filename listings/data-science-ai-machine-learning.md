@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (604)
+# Data Science, AI & Machine Learning (603)
 
 [← back to index](../README.md)
 
@@ -45,7 +45,6 @@
 | [Crowe](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Consultant-Intern_R-71042) | Data Consultant Intern | Chicago, IL | Fall 2026 | 2026-08-14 | 3 | simplify-2026 |
 | [Crowe](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039) | D365 ERP Technical Intern - Consulting Practice | Chicago, IL | Fall 2026 | 2026-08-14 | 3 | simplify-2026 |
 | [Crowe](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) | Data Analytics Developer Intern - Consulting Practice | Chicago, IL | Fall 2026 | 2026-08-14 | 3 | simplify-2026 |
-| [Cenovus Energy](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Workforce-Analytics---Strategic-Planning_R-411016) | Workforce Analytics & Strategic Planning | Calgary, AB, Canada | N/A | 2026-08-14 | 3 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816) | Geoscience Intern - Geoscientist | Houston, TX | Summer 2027 | 2026-08-14 | 3 | simplify-2026 |
 | [Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1) | Research Scientist Intern - User Modeling and Personalization | LA, Bellevue, WA | Fall 2026 | 2026-08-14 | 3 | simplify-2026 |
 | [Analytical Mechanics Associates](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731) | Computer Science/Engineering Intern - Computer Vision Applications | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Hampton, VA, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Fall 2026 | 2026-08-14 | 3 | simplify-2026 |
