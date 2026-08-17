@@ -29,7 +29,7 @@
     "company_name": "Photon",
     "id": "3a2e2c86-3612-46c8-891d-50a65e292f46",
     "title": "Software Engineering Intern - AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -1337,7 +1337,7 @@
     "company_name": "Cenovus Energy",
     "id": "1efd9a41-d63b-4b5e-bd26-74ecbf7840bc",
     "title": "Workforce Analytics & Strategic Planning",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -3248,7 +3248,7 @@
     "company_name": "RTX",
     "id": "58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7905,7 +7905,7 @@
     "company_name": "RTX",
     "id": "52462af1-1206-44dd-b198-4abe760812d3",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12775,7 +12775,7 @@
     "company_name": "GE Appliances",
     "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
     "title": "Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -18585,7 +18585,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -68981,7 +68981,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -189593,7 +189593,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
