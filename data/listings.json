@@ -490,7 +490,7 @@
     "company_name": "Boston Consulting Group",
     "id": "f6f17706-f32e-4624-8175-889945a160e5",
     "title": "Forward Deployed AI Engineer - Campus",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -1491,7 +1491,7 @@
     "company_name": "InfiniteQuant",
     "id": "480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
     "title": "Quantitative Developer Internship - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -1545,7 +1545,7 @@
     "company_name": "NVIDIA",
     "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
     "title": "Ph.D. Research Autonomous Vehicles Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3586,7 +3586,7 @@
     "company_name": "Assurant",
     "id": "5e9fd1d4-a28c-46fb-96eb-f4a461df16b8",
     "title": "Digital & AI Transformation Intern 1 - Internship Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4350,7 +4350,7 @@
     "company_name": "RTX",
     "id": "40569998-45dc-4119-b2ea-2f11366a604f",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4588,7 +4588,7 @@
     "company_name": "Riveron",
     "id": "6359c80a-9d69-4dcc-9607-0b4506269693",
     "title": "Technology & Innovation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -5732,7 +5732,7 @@
     "company_name": "Intel",
     "id": "2d8fe16e-0d23-496c-9f2a-a5a1dd0f386a",
     "title": "Software Development Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -7059,7 +7059,7 @@
     "company_name": "Levi Strauss & Co.",
     "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
     "title": "Analytics Intern - eCommerce",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -7528,7 +7528,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7765,7 +7765,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7789,7 +7789,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -7813,7 +7813,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7868,7 +7868,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -10902,7 +10902,7 @@
     "company_name": "InfiniteQuant",
     "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
     "title": "Quantitative Developer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13035,7 +13035,7 @@
     "company_name": "Blue Origin",
     "id": "2d12bca6-cc8c-4e3f-877e-0219f82a069b",
     "title": "Software Development Engineer 1 Intern - Corporate Functions",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -13550,7 +13550,7 @@
     "company_name": "RTX",
     "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -40378,7 +40378,7 @@
     "company_name": "Keysight Technologies",
     "id": "94d15250-b26f-43ee-8091-069b19db76c3",
     "title": "AI/ML Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -48945,7 +48945,7 @@
     "company_name": "Citadel",
     "id": "78885859-7ae3-42cc-a2db-f5d8aff6bfc7",
     "title": "Investment & Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -262541,7 +262541,7 @@
     "company_name": "ByteDance",
     "id": "d682d247-adfc-4dad-8a92-2194c9d88119",
     "title": "Software Engineer Project Intern - Security Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

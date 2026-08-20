@@ -1,4 +1,4 @@
-# Hardware Engineering (219)
+# Hardware Engineering (218)
 
 [← back to index](../README.md)
 
@@ -43,7 +43,6 @@
 | [Daktronics](https://careers-daktronics.icims.com/jobs/7492/job?mobile=true&needsRedirect=false) | Firmware/Hardware Design Student | Rapid City, SD | N/A | 2026-08-17 | 3 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/32954?icims=1) | FPGA Design Intern - FPGA Design | Champaign, IL | Fall 2026 | 2026-08-17 | 3 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866833) | Conversion Systems Engineer 1 Intern | Cedar Rapids, IA | Fall 2026 | 2026-08-17 | 3 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067) | Software Engineer Intern - Summer 2027 | Indianapolis, IN | Summer 2027 | 2026-08-17 | 3 | simplify-2026 |
 | [Boom Supersonic](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) | Engineering and Tech Intern | Centennial, CO | Summer 2027 | 2026-08-16 | 4 | simplify-2026 |
 | [Freeform](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | Software Engineer Intern - Summer 2027 | LA | Summer 2027 | 2026-08-15 | 5 | simplify-2026 |
 | [Epia Neuro](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) | Hardware Engineer Intern | Alameda, CA | Fall 2026 | 2026-08-15 | 5 | simplify-2026 |
