@@ -1,4 +1,4 @@
-# Hardware Engineering (216)
+# Hardware Engineering (214)
 
 [← back to index](../README.md)
 
@@ -29,7 +29,6 @@
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700/?ats=successfactors) | Software Engineer Intern | Herndon, VA | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors) | Software Engineer Intern 3 | Colorado Springs, CO | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors) | Software Engineer Intern | Colorado Springs, CO | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
-| [Toshiba Global Commerce](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214748007) | Hardware Engineer Intern | Bentonville, AR | Fall 2026 | 2026-08-18 | 2 | simplify-2026 |
 | [Avery Dennison](https://jobs.smartrecruiters.com/AveryDennison/744000144153141) | RFID Applications Engineer Co-op - Summer 2027 - Plus one semester | Miamisburg, OH | Summer 2027 | 2026-08-18 | 2 | simplify-2026 |
 | [Wabtec](https://jobs.smartrecruiters.com/Wabtec/3743990014655843) | Digital Intern | Erie, PA | Summer 2027 | 2026-08-18 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | Software Engineer Intern | Palm Bay, FL | Summer 2026 | 2026-08-18 | 2 | simplify-2026 |
@@ -73,7 +72,6 @@
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | DRAM IP Circuits Design Engineer Intern - IP Development | Boise, ID | Fall 2026 | 2026-08-10 | 10 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | DRAM Design Engineer Intern | Boise, ID | Fall 2026 | 2026-08-10 | 10 | simplify-2026 |
 | [HyperLight](https://apply.workable.com/hyperlight/j/498D9988C8/apply) | Integrated Photonics Intern | Cambridge, MA | Summer 2026, Fall 2026 | 2026-08-08 | 12 | simplify-2026 |
-| [Axon](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) | Firmware Engineer Intern - Platform Firmware | Boston, MA, Seattle, WA | Summer 2026 | 2026-08-07 | 13 | simplify-2026 |
 | [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) | Flight Software Intern - Spring 2027 | El Segundo, CA | Spring 2027 | 2026-08-07 | 13 | simplify-2026 |
 | [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/TXI-Tech-Intern--Texas-Immersive-Institute--Moody-College-of-Communication--Open-to-Work-Study-_R_00047950) | Technology Intern - Texas Immersive Institute - Moody College of Communication | Austin, TX | Summer 2026 | 2026-08-07 | 13 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | Fall 2026 | 2026-08-07 | 13 | simplify-2026 |
