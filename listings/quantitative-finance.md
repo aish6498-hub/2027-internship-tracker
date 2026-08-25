@@ -1,4 +1,4 @@
-# Quantitative Finance (155)
+# Quantitative Finance (157)
 
 [← back to index](../README.md)
 
@@ -24,6 +24,7 @@
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 8 | simplify-2026 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | Quantitative Researcher Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 8 | simplify-2026 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-1) | Capital Markets Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | N/A | 2026-08-17 | 8 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170675?type=students) | Summer Analyst Intern - FICC & Equities - Sales & Trading | London, UK | Summer 2027 | 2026-08-15 | 10 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 | 11 | simplify-2026 |
 | [Prudential Financial](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 11 | simplify-2026 |
 | [PGIM](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835) | Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group | Newark, NJ | Summer 2027 | 2026-08-14 | 11 | simplify-2026 |
@@ -87,6 +88,7 @@
 | [Chevron Corporation](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485) | Supply & Trading TRIP Program Intern | Houston, TX | Fall 2026 | 2026-07-20 | 36 | simplify-2026 |
 | [Chevron Corporation](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072487) | Supply & Trading TAMU TRIP Program Intern | Houston, TX | Fall 2026 | 2026-07-20 | 36 | simplify-2026 |
 | [Chevron Corporation](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program---Full-Time_R000072489) | Intern | Houston, TX | Fall 2026 | 2026-07-20 | 36 | simplify-2026 |
+| [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | Quantitative Research Analyst Intern | London, UK | Summer 2026 | 2026-07-15 | 41 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | Quantitative Trading Internship | London, UK | Summer 2027 | 2026-07-15 | 41 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-07-15 | 41 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | London, UK | Summer 2027 | 2026-07-15 | 41 | simplify-2026 |
