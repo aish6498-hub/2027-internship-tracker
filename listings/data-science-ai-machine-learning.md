@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (758)
+# Data Science, AI & Machine Learning (757)
 
 [← back to index](../README.md)
 
@@ -178,6 +178,7 @@
 | [Mass General Brigham](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/20-Shattuck-Street--Boston-Thorn-Research-Building/Student-research-assistant---Global-Health-Equity_RQ4076623) | Student Research Assistant | Boston, MA | N/A | 2026-08-19 | 7 | simplify-2026 |
 | [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184) | Data & Process Automation Intern - Duty Drawback | Newark, NJ | Fall 2026 | 2026-08-19 | 7 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 7 | simplify-2026 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | Generative AI Ph.D. Research Intern | Santa Clara, CA | Summer 2027 | 2026-08-19 | 7 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries | Santa Clara, CA | Fall 2026 | 2026-08-19 | 7 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) | Large Language Models Intern - Research | Santa Clara, CA | Summer 2027 | 2026-08-19 | 7 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) | Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation | Santa Clara, CA | Summer 2027 | 2026-08-19 | 7 | simplify-2026 |
@@ -316,7 +317,6 @@
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | Supply Chain Data Analyst Intern | Chicago, IL | Summer 2027 | 2026-08-11 | 15 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667582040108222773) | Issue Discovery Operations Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-10 | 16 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Data-Management-Solutions/362366) | Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions | Rosslyn, Arlington, VA | Summer 2026 | 2026-08-10 | 16 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | Sector Data Scientist Intern | NYC | Summer 2027 | 2026-08-10 | 16 | simplify-2026 |
 | [Altamira Technologies](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | Research and Development Intern | Fairborn, OH | Summer 2027 | 2026-08-10 | 16 | simplify-2026 |
 | [Medpace](https://careers.medpace.com/jobs/12921?icims=1) | Data Engineer Intern - Spring 2027 | Cincinnati, OH | Spring 2027 | 2026-08-10 | 16 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7671291260529821957/detail) | Machine Learning Engineer Intern | San Jose, CA | Summer 2027 | 2026-08-10 | 16 | simplify-2026 |
@@ -430,7 +430,6 @@
 | [Postman](https://job-boards.greenhouse.io/postman/jobs/7823417003) | AI Engineer Intern | Berkeley, CA | Fall 2026 | 2026-08-01 | 25 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [PPL](https://careers.pplweb.com/jobs/14149?icims=1) | Research & Development PhD Engineer Intern | Lexington, KY, Providence, RI, Allentown, PA | Summer 2026 | 2026-08-01 | 25 | simplify-2026 |
 | [Clyde Companies](https://careers.clydeinc.com/jobs/22659?icims=1) | Business Intelligence Intern | Orem, UT | Fall 2026 | 2026-08-01 | 25 | simplify-2026 |
-| [Citadel](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | Sector Data Analyst Intern | London, UK | Fall 2026 | 2026-08-01 | 25 | simplify-2026 |
 | [ConocoPhillips](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385) | Geosciences Intern | Midland, TX, Houston, TX, Anchorage, AK | Fall 2027 | 2026-08-01 | 25 | simplify-2026 |
 | [Persona AI](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630/application?embed=true) | Machine Learning Intern - Manipulation | Houston, TX | Fall 2026, Spring 2027 | 2026-07-31 | 26 | simplify-2026 |
 | [Zello](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true) | Analytics Intern | Austin, TX | Fall 2026 | 2026-07-31 | 26 | simplify-2026 |
