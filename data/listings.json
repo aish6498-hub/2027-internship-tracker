@@ -109,7 +109,7 @@
     "company_name": "Booz Allen",
     "id": "841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
     "title": "Software Developer Intern - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1576,7 +1576,7 @@
     "company_name": "Ameren",
     "id": "39304d92-2b98-45ee-9a39-8f4f5ac43185",
     "title": "Meteorology Intern - Crisis Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1658,7 +1658,7 @@
     "company_name": "Ameren",
     "id": "5022bef0-ef20-4549-8823-95bd6b2141f5",
     "title": "Crisis Management Meteorology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -4647,7 +4647,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "4338e55f-78ed-4a37-8c3d-482e13c4cff0",
     "title": "AI Security Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -32627,7 +32627,7 @@
     "company_name": "Atoms",
     "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
     "title": "Software Engineer Intern - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -58875,7 +58875,7 @@
     "company_name": "Magna",
     "id": "bd081463-2c78-438c-87f7-e4ad5d580efa",
     "title": "AI Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -70616,7 +70616,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "eb6abc1f-b44d-436b-a6ab-6ab6af1e18c6",
     "title": "A.1. Integration Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -70640,7 +70640,7 @@
     "company_name": "Aramark",
     "id": "5e6b49a0-6e9b-4f33-ba59-dad824c4a405",
     "title": "Student Barista",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -130168,6 +130168,35 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intelcom | Dragonfly",
+    "id": "d17ead29-d484-4239-8ae1-8e0c475ad01f",
+    "title": "AI Data Analyst Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777530781,
+    "date_posted": 1777529238,
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR110739-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
     ],
     "_sources": [
       "simplify-2026"
@@ -273772,7 +273801,7 @@
     "company_name": "Exa Labs",
     "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -351049,78 +351078,6 @@
       "Vienna, VA"
     ],
     "company_url": "https://simplify.jobs/c/SteerBridge",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intelcom | Dragonfly",
-    "id": "3c1987ef-54e8-42a8-9799-0c42120007b6",
-    "title": "AI Data Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767114729,
-    "date_posted": 1767114729,
-    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR110116",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "T-Mobile",
-    "id": "c9361398-2916-4fa4-9ccd-de49ef9dadeb",
-    "title": "2026 Summer Product Management Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767114191,
-    "date_posted": 1767114191,
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/XMLNAME-2026-Summer-Product-Management-Intern_REQ340836",
-    "locations": [
-      "Overland Park, KS"
-    ],
-    "company_url": "https://simplify.jobs/c/T-Mobile",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Altera Corporation",
-    "id": "46c71047-9ccd-4237-b84c-19cd1767259f",
-    "title": "AI/ML Intern in Design Automation",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767114095,
-    "date_posted": 1767114095,
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-ML-Intern-in-Design-Automation_R01748",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
