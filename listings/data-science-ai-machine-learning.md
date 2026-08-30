@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (825)
+# Data Science, AI & Machine Learning (826)
 
 [← back to index](../README.md)
 
@@ -101,6 +101,7 @@
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648) | Data Engineer Intern - Technology, Data, AI, and Operations | Charlotte, NC | Summer 2027 | 2026-08-26 | 4 | simplify-2026 |
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) | Data Engineer Intern - Technology, Data, AI, and Operations | Chicago, IL | Summer 2027 | 2026-08-26 | 4 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) | Software Developer/Data Scientist Intern - Summer 2027 | Sterling, VA, Denver, CO, Sarasota, FL | Summer 2027 | 2026-08-26 | 4 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932) | Customer Data Management and Analysis Intern | Longueuil, QC, Canada | Winter 2027 | 2026-08-26 | 4 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Fraud-Strategy-Student--4-months----Winter-2027_JR164531) | Fraud Strategy Student - 4 months | Welland, ON, Canada | N/A | 2026-08-26 | 4 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194) | Technical Intern - Federal Reserve - National IT | Richmond, VA | Summer 2027 | 2026-08-26 | 4 | simplify-2026 |
 | [MKS Instruments](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) | Business Intelligence/Data Analytics Intern | Andover, MA | Summer 2027 | 2026-08-26 | 4 | simplify-2026 |
