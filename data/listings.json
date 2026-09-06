@@ -25304,7 +25304,7 @@
     "company_name": "General Motors",
     "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
     "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -48448,7 +48448,7 @@
     "company_name": "Marsh",
     "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
     "title": "Government Health Consulting Informatics Intern - College Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48611,7 +48611,7 @@
     "company_name": "Capacity",
     "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
     "title": "Speech Technology Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -70317,7 +70317,7 @@
     "company_name": "Montenson",
     "id": "5acb5ba5-b61d-4432-922b-9dea91c7815d",
     "title": "Data Analytics Intern - Insights",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -83567,7 +83567,7 @@
     "company_name": "k-ID",
     "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
     "title": "Engineering Intern - Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -85499,7 +85499,7 @@
     "company_name": "Brio Water Technology",
     "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
     "title": "AI Automation & Business Analytics Intern - Rotational Program",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -127312,7 +127312,7 @@
     "company_name": "Evolver",
     "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
     "title": "Applied Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

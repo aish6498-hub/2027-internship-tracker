@@ -1,4 +1,4 @@
-# Software Engineering (860)
+# Software Engineering (859)
 
 [← back to index](../README.md)
 
@@ -638,7 +638,6 @@
 | [Later](https://job-boards.greenhouse.io/later/jobs/8643138002) | Software Development Co-op - Later Influence | Vancouver, BC, Canada | Fall 2026 | 2026-07-22 | 46 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Software Engineer Intern - Software Engineer | Austin, TX, NYC | Summer 2027 | 2026-07-21 | 47 | simplify-2026 |
 | [ShyftLabs](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | AI Engineer Intern | Toronto, ON, Canada | Fall 2026 | 2026-07-21 | 47 | simplify-2026 |
-| [k-ID](https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true) | Engineering Intern - Program | United States | Fall 2026 | 2026-07-21 | 47 | simplify-2026 |
 | [Gitar, Inc.](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) | Software Engineer Intern | San Mateo, CA | Summer 2025 | 2026-07-21 | 47 | simplify-2026 |
 | [NeoSigma](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | Member of Technical Staff Intern | SF | Fall 2026 | 2026-07-21 | 47 | simplify-2026 |
 | [Phonely](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5/application?embed=true) | Software Engineer Intern - Multiple Teams | SF | Fall 2026 | 2026-07-21 | 47 | simplify-2026 |
