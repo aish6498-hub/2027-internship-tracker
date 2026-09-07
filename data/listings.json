@@ -1,6 +1,86 @@
 [
   {
     "source": "Simplify",
+    "category": "Software",
+    "company_name": "incident.io",
+    "id": "ed68772a-4ef4-445f-ae7d-35a26fa9cf11",
+    "title": "Product Engineer Placement - 6 Months",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1788791041,
+    "date_posted": 1788791002,
+    "url": "https://jobs.ashbyhq.com/incident/470989ec-6ac5-4800-beb1-0ba1684ec1ee/application?embed=true",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Incident-Io",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "incident.io",
+    "id": "56542a8e-855c-488c-913e-1d63b6c0a8d6",
+    "title": "Product Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788790639,
+    "date_posted": 1788790463,
+    "url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Incident-Io",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "InfiniteQuant",
+    "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
+    "title": "Quantitative Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1788790562,
+    "date_posted": 1788426251,
+    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+    "locations": [
+      "Dubai - United Arab Emirates",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/InfiniteQuant",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "NXP Semiconductors",
     "id": "328bd348-d314-45a7-bc96-ecc208360de3",
@@ -9720,7 +9800,7 @@
     "company_name": "Walmart",
     "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
     "title": "Software Engineer 2 Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -180930,7 +181010,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -381231,33 +381311,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Woven",
-    "id": "1e2469ef-e9ea-420b-b1c9-00bc1dcdf61b",
-    "title": "Software Engineering Intern - Embedded",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768051749,
-    "date_posted": 1768051749,
-    "url": "https://jobs.lever.co/woven-by-toyota/77cac944-392e-4a8c-b427-532076f8521d/apply",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/Woven-Planet",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ],
     "_sources": [
       "simplify-2026"
