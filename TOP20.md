@@ -19,7 +19,7 @@ Ranked by freshness + company tier + role category.
 | 9 | **Northrop Grumman** | Software Engineer Intern | Roy, UT | Summer 2027 | 2026-09-08 (1d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842) |
 | 10 | **Boeing** | Artificial Intelligence Software Engineer Intern - Graduate Researcher Program | Tukwila, WA | Summer 2027 | 2026-09-08 (1d ago) | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687) |
 | 11 | **Microsoft** | Hardware Engineer Intern | Hillsboro, OR | Winter 2026 | 2026-09-05 (4d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556986143) |
-| 12 | **Susquehanna International Group** | Technology Co-op - Northeastern University | Bala Cynwyd, PA | Winter 2027 | 2026-09-04 (5d ago) | [Apply](https://careers-sig.icims.com/jobs/11377/job?mobile=true&needsRedirect=false) |
+| 12 | **Susquehanna International Group** | Technology Co-op | Bala Cynwyd, PA | Winter 2027 | 2026-09-04 (5d ago) | [Apply](https://careers-sig.icims.com/jobs/11379/job?mobile=true&needsRedirect=false) |
 | 13 | **Scale AI** | Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-04 (5d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | 14 | **Amazon** | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027, Spring 2027, Fall 2027 | 2026-09-04 (5d ago) | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | 15 | **Adobe** | Software Engineer Intern | Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT | Summer 2027 | 2026-09-03 (6d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (7d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-09-09 19:34 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-09-09 22:50 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

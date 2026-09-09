@@ -4,11 +4,13 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
 | [Pomerleau](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3620) | AI Product Analyst Intern | Montreal, QC, Canada | Winter 2026 | 2026-09-09 | 0 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361) | Product Strategist Intern - Student Loans | Vienna, VA | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309) | Product Strategist Intern | Vienna, VA | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8175504) | Product Manager Intern - HR Technology | NYC | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168322) | Associate Product Manager Intern - Multiple Teams | SF | Summer 2027 | 2026-09-09 | 0 | simplify-2026 |
+| [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Payments--Product---Design-Cash-Management-----Winter-2027_2618519) | Payments – Product & Design Cash Management Student Analyst - Multiple Teams | Toronto, ON, Canada | N/A | 2026-09-09 | 0 | simplify-2026 |
 | [Samsung](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Samsung-House-2000-Hillswood-Drive-Chertsey-United-Kingdom/Emerging-Talent---Product-Management-Placement_R120347) | Product Management Placement | Chertsey, UK | N/A | 2026-09-09 | 0 | simplify-2026 |
 | [Hormel Foods](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735) | R&D Product Development Intern - Campus Recruiting | Northbrook, IL | Summer 2027 | 2026-09-08 | 1 | simplify-2026 |
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Product Intern | Mountain View, CA | Summer 2027 | 2026-09-08 | 1 | simplify-2026 |
@@ -162,14 +164,12 @@
 | [TikTok](https://lifeattiktok.com/search/7657541997725288757) | Copyright Solution Product Manager Intern - Tiktok-Music | San Jose, CA | Fall 2026 | 2026-07-03 | 68 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7657640284071954741) | Product Solutions and Operations Project Intern - Commerce Ads | San Jose, CA | Summer 2026 | 2026-07-02 | 69 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7655410730217048373) | Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS/MS | San Jose, CA | Summer 2026 | 2026-07-02 | 69 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/275178) | Product Manager Intern - Residential Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-27 | 74 | simplify-2026 |
 | [Niural](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | Product Design Intern | New York City, NY | Summer 2026 | 2026-06-23 | 78 | simplify-2026 |
 | [Lila Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) | Software Product Management Co-op | Cambridge, MA | Fall 2026 | 2026-06-16 | 85 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7584522934515714357) | Product Management Project Intern - TikTok Shop-Operations | LA | Summer 2026 | 2026-06-15 | 86 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7644986569989032197) | Product Manager Shop Ads Creative Project Intern - Ads Interface and Platform - 2026 Start - BS/MS | San Jose, CA | Summer 2026 | 2026-06-15 | 86 | simplify-2026 |
 | [Sweatpals](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Product Manager Intern - Host Squad | Remote in USA | Summer 2026 | 2026-06-09 | 92 | simplify-2026 |
 | [Tessera Labs](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Product Manager Intern | San Jose, CA, Remote in USA, NYC | Summer 2026, Fall 2026 | 2026-06-08 | 93 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/272322) | Commercial Charging Product Management Intern - Energy Engineering | Palo Alto, CA | Fall 2026 | 2026-06-07 | 94 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) | Product Manager Intern - Ovip | Kansas City, MO | Summer 2026 | 2026-05-21 | 111 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) | Project Manager Intern | Seattle, WA | Fall 2026 | 2026-05-21 | 111 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7634027348048709941) | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Summer 2026 | 2026-04-30 | 132 | simplify-2026 |
