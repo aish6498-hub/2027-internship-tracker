@@ -1,4 +1,4 @@
-# Hardware Engineering (460)
+# Hardware Engineering (461)
 
 [← back to index](../README.md)
 
@@ -94,6 +94,7 @@
 | [Hexagon AB](https://careers-hexagonpositioning.icims.com/jobs/3093/job?mobile=true&needsRedirect=false) | Geomatics Engineer Intern - GNSS Algorithms | Calgary, AB, Canada | Summer 2027 | 2026-09-03 | 6 | simplify-2026 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Bala Cynwyd, PA | Summer 2027 | 2026-09-03 | 6 | simplify-2026 |
 | [AMD](https://careers.amd.com/jobs/91308?icims=1) | Diagnostics Design Engineering Intern/Co-op | Markham, ON, Canada | Summer 2027 | 2026-09-03 | 6 | simplify-2026 |
+| [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/a0f12586-4821-4683-8983-c268e621ca0e/application?embed=true) | Electrical Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 6 | simplify-2026 |
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application?embed=true) | Flight Software Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 6 | simplify-2026 |
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application?embed=true) | Embedded Firmware Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 6 | simplify-2026 |
 | [Apex](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true) | Software Engineer Intern - Embedded Systems | LA | Spring 2027, Summer 2027 | 2026-09-03 | 6 | simplify-2026 |
