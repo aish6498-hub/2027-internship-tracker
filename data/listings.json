@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lowe's",
+    "id": "8a8f9aee-a750-4b17-a552-e19c07344085",
+    "title": "Store Operations Corporate Facilities Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1790073699,
+    "date_posted": 1789516800,
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1",
+    "locations": [
+      "Mooresville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Lowes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Northrop Grumman",
     "id": "4f096c73-afae-450f-b903-ace71c84d47f",
@@ -2444,7 +2470,7 @@
     "company_name": "GE Healthcare",
     "id": "7d669b5f-60d8-41f2-8c63-353b9b7240a7",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -4552,7 +4578,7 @@
     "company_name": "Boston Consulting Group",
     "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
     "title": "Forward Deployed AI Engineer Intern - BCG X",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -5106,7 +5132,7 @@
     "company_name": "Microsoft",
     "id": "c7882e60-9d46-4536-8550-5308e78edb36",
     "title": "Hardware Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -9995,7 +10021,7 @@
     "company_name": "NVIDIA",
     "id": "e3878d12-f4a0-4e39-b2e8-322da6bb1115",
     "title": "Architecture Research Intern - Architecture - 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10023,7 +10049,7 @@
     "company_name": "NVIDIA",
     "id": "ea5ee9d4-b9cf-4ed2-b1ab-93db2d16e7bc",
     "title": "Research Intern - Hardware and Systems Architecture",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -10077,7 +10103,7 @@
     "company_name": "NVIDIA",
     "id": "55a28a09-e8b9-4af7-bec5-c02f4642f6f2",
     "title": "PhD Research Intern - Generalist Embodied Agents Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -11738,7 +11764,7 @@
     "company_name": "CoStar Group",
     "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
     "title": "Technology Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -15464,7 +15490,7 @@
     "company_name": "Lunar Outpost",
     "id": "ebbd5ceb-60c1-4b21-a374-b64d339e494a",
     "title": "Electrical Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -18316,7 +18342,7 @@
     "company_name": "LexisNexis Legal & Professional",
     "id": "769bec28-a1aa-4a21-854c-4dcde8904154",
     "title": "Data Science Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -30071,7 +30097,7 @@
     "company_name": "Fidelity Investments",
     "id": "ebf1ebb8-5b9b-4ef9-a965-ff8476d3418e",
     "title": "Machine Learning Co-op - Graph Technology Team",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -52353,7 +52379,7 @@
     "company_name": "Marvell",
     "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
     "title": "Design for Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69545,7 +69571,7 @@
     "company_name": "Magna",
     "id": "a7beff09-b326-4679-a544-c614e04aa701",
     "title": "Robotics AI Algorithm Intern - Research and Development",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -78279,7 +78305,7 @@
     "company_name": "Trane Technologies",
     "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
     "title": "AI & Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -90293,7 +90319,7 @@
     "company_name": "RTX",
     "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
     "title": "Customer Data Management and Analysis Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -96492,7 +96518,7 @@
     "company_name": "Freddie Mac",
     "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
     "title": "Quantitative Risk Management Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -105534,7 +105560,7 @@
     "company_name": "NVIDIA",
     "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
     "title": "Mixed Signal Design Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -121110,7 +121136,7 @@
     "company_name": "WallStreetQuants",
     "id": "e658540c-4e9e-4242-ae48-0e3059df35a4",
     "title": "Quantitative Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -145159,7 +145185,7 @@
     "company_name": "Castleton Commodities International",
     "id": "cab3486c-17b7-4cac-ad2b-49f4007f98e4",
     "title": "Commodities Trading Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -229729,7 +229755,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -237872,7 +237898,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
