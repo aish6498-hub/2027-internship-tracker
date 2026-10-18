@@ -4768,7 +4768,7 @@
     "company_name": "Invesco",
     "id": "825cae44-1221-442b-93fc-552072a0498e",
     "title": "Quantitative Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -7457,7 +7457,7 @@
     "company_name": "RTX",
     "id": "450e4484-4377-400a-9da6-573dd1196e57",
     "title": "Electrical Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -7854,7 +7854,7 @@
     "company_name": "Pennsylvania State University",
     "id": "33bbbdb3-7bf2-4ddd-90dc-200d4e2d8f82",
     "title": "R&D Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -11494,7 +11494,7 @@
     "company_name": "BP",
     "id": "ac5c0aa0-973b-4add-966c-686afeebbf87",
     "title": "Summer Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -13355,7 +13355,7 @@
     "company_name": "RTX",
     "id": "4ee9bbfd-bd96-4660-9f4b-3fb000ccd885",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23729,7 +23729,7 @@
     "company_name": "General Motors",
     "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
     "title": "Systems Engineer Intern - Asd",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -23757,7 +23757,7 @@
     "company_name": "General Motors",
     "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
     "title": "AV Sensor Design, Release and Integration Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -26791,7 +26791,7 @@
     "company_name": "KLA",
     "id": "98500a46-81cc-4232-a948-20ca62544339",
     "title": "PLM Business Intelligence & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -34228,7 +34228,7 @@
     "company_name": "NVIDIA",
     "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -41869,7 +41869,7 @@
     "company_name": "The Federal Reserve System",
     "id": "aaeb44bf-c9ec-46e3-989c-e8594be3ac17",
     "title": "Data Science Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -57488,7 +57488,7 @@
     "company_name": "KLA",
     "id": "2e670f26-fa85-4586-a044-ad138d073cf3",
     "title": "Software Engineering Intern - C++ - Unix",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -58044,7 +58044,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
     "title": "Software Development Intern - Wealth Management Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -62097,7 +62097,7 @@
     "company_name": "Tyler Technologies",
     "id": "a71102ca-4c4d-4bc3-8084-fcf5d09cf645",
     "title": "Software Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72417,7 +72417,7 @@
     "company_name": "InterSystems",
     "id": "0caf3dfe-2e90-4b65-8cdb-cb79345145bc",
     "title": "Web Development Micro-Intern - Iap",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -78866,7 +78866,7 @@
     "company_name": "Altar'd State",
     "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
     "title": "Store Operations Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -89001,7 +89001,7 @@
     "company_name": "Amgen",
     "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
     "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -118120,7 +118120,7 @@
     "company_name": "Micron Technology",
     "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
     "title": "DRAM Design Rules Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -125342,7 +125342,7 @@
     "company_name": "Intel",
     "id": "ac297577-f4f9-4b73-ab38-00c094342140",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -408112,86 +408112,6 @@
     "degrees": [
       "Bachelor's",
       "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Motorola",
-    "id": "170ba304-176a-435c-988f-3941a42c5d80",
-    "title": "R&D Intern - FPGA/RTL Design Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771592344,
-    "date_posted": 1771592344,
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Motorola",
-    "id": "2b531c72-838a-4fe2-af8e-d895f806a9ef",
-    "title": "R&D Intern - FPGA/RTL Design Engineer",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1771591257,
-    "date_posted": 1771591257,
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62375",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Amazon",
-    "id": "88c3c64f-28df-481c-8295-4ca332093ad3",
-    "title": "Economics - EU Stores - Economic Decision Science",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771583383,
-    "date_posted": 1771583383,
-    "url": "https://amazon.jobs/en/jobs/3185791/economics-intern-eu-stores-economic-decision-science",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
     ],
     "_sources": [
       "simplify-2026"
