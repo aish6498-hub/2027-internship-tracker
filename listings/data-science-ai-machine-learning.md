@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1560)
+# Data Science, AI & Machine Learning (1557)
 
 [← back to index](../README.md)
 
@@ -529,7 +529,6 @@
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) | PhD Research Intern - AI-Aided Engineering | Santa Clara, CA | N/A | 2026-10-07 | 20 | simplify-2026 |
 | [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662) | Business Intelligence Engineer Intern | Lansing, MI | Summer 2027 | 2026-10-07 | 20 | simplify-2026 |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1) | Research Intern - AI Research | Toronto, ON, Canada | Summer 2027 | 2026-10-07 | 20 | simplify-2026 |
-| [Clēnera](https://job-boards.greenhouse.io/clenera/jobs/5259423007) | Data Engineer Intern | Boise, ID | Winter 2027 | 2026-10-06 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [KQED](https://kqed.applytojob.com/apply/5Gz2ElMQfy/Audience-Intelligence-Analytics-Intern) | Audience Intelligence Intern | SF | Winter 2027 | 2026-10-06 | 21 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | PhD Machine Learning Software Engineer Intern | SF | Summer 2027 | 2026-10-06 | 21 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1633096478817942) | Data Scientist Intern - Product Analytics | Menlo Park, CA, NYC | Summer 2027 | 2026-10-06 | 21 | simplify-2026 |
@@ -1033,7 +1032,6 @@
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8175459) | Data Engineer Intern | SF | Summer 2027 | 2026-09-09 | 48 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8175471) | Analytics Engineer Intern | SF | Summer 2027 | 2026-09-09 | 48 | simplify-2026 |
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416) | Operations Technical Training Platforms Co-op | Colorado Springs, CO, Billerica, MA | Spring 2027 | 2026-09-09 | 48 | simplify-2026 |
-| [Ankura Consulting Group](https://ankura.wd5.myworkdayjobs.com/ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) | Forensic Data & Analytics Intern | NYC | Winter 2026 | 2026-09-09 | 48 | simplify-2026 |
 | [Covestro](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Digital-R-D-Intern_JR-2026-02006) | Digital R&D Intern | Pittsburgh, PA | Summer 2027 | 2026-09-09 | 48 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Eudia](https://job-boards.greenhouse.io/eudia/jobs/4020078009) | AI Engineer Intern | Palo Alto, CA | Spring 2026, Summer 2026 | 2026-09-08 | 49 | simplify-2026 |
 | [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true) | Computer Vision Intern - Machine Learning | Austin, TX | Summer 2027 | 2026-09-08 | 49 | simplify-2026 |
@@ -1209,7 +1207,6 @@
 | [TikTok](https://lifeattiktok.com/search/7677467052537776437) | Client Solutions Intern | San Jose, CA | Summer 2027 | 2026-08-24 | 64 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7677467375487486213) | Client Solutions Intern - Global Business Solutions | LA | Summer 2027 | 2026-08-24 | 64 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7677467375486765317) | Client Solutions Intern - Global Business Solutions | NYC | Summer 2027 | 2026-08-24 | 64 | simplify-2026 |
-| [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak/jobs/4378548009) | Planning Intern - Mission Planning | Mountain View, CA | Winter 2027 | 2026-08-24 | 64 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Research Intern - PhD | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | Summer 2027 | 2026-08-24 | 64 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241) | Data Science Intern - Engineering | Pittsburgh, PA | Summer 2027 | 2026-08-24 | 64 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238) | Data Science Intern - Engineering | Jersey City, NJ | Summer 2027 | 2026-08-24 | 64 | simplify-2026 |
