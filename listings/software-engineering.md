@@ -1,4 +1,4 @@
-# Software Engineering (1458)
+# Software Engineering (1455)
 
 [← back to index](../README.md)
 
@@ -834,7 +834,6 @@
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors) | FPGA Software Tool Developer Co-op | Waterdown, Hamilton, ON, Canada | Summer 2026 | 2026-09-15 | 58 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors) | Full Stack Developer Co-op | Waterdown, Hamilton, ON, Canada | Summer 2026 | 2026-09-15 | 58 | simplify-2026 |
 | [F&G](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003) | IT Software Engineer Intern - Summer | Des Moines, IA | Summer 2027 | 2026-09-15 | 58 | simplify-2026 |
-| [New York ISO](https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007) | Information Technology Software Development Intern | Rensselaer, NY | Summer 2026 | 2026-09-15 | 58 | simplify-2026 |
 | [New York ISO](https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007) | Software Engineering Co-op - Software Engineering | Rensselaer, NY | N/A | 2026-09-15 | 58 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/74953/job?mobile=true&needsRedirect=false) | Engineer Intern - Software Engineering | Bloomington, MN | Winter 2026 | 2026-09-15 | 58 | simplify-2026 |
 | [Huntington Ingalls Industries](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors) | Computer Engineering Intern | Pascagoula, MS | Summer 2027 | 2026-09-15 | 58 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -864,7 +863,6 @@
 | [National Life](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009) | IT Application Development Intern | Montpelier, VT, Addison, TX | Summer 2027 | 2026-09-14 | 59 | simplify-2026 |
 | [Figma](https://boards.greenhouse.io/figma/jobs/6152695004) | Software Engineer Intern - Multiple Teams | London, UK | Summer 2027 | 2026-09-14 | 59 | simplify-2026 |
 | [Figma](https://boards.greenhouse.io/figma/jobs/6143238004) | Software Engineer Intern | SF, NYC | Summer 2027 | 2026-09-14 | 59 | simplify-2026 |
-| [Equitable Bank](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) | Commercial Lending AI Engineer Intern - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-14 | 59 | simplify-2026 |
 | [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054) | Full Stack Software Engineer Intern - Summer 2027 | Bohemia, NY | Summer 2027 | 2026-09-14 | 59 | simplify-2026 |
 | [Scale AI](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | Software Engineer Intern - Summer 2027 | London, UK | Summer 2027 | 2026-09-14 | 59 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Summer-Placement-2027_R37727) | Weapon Systems Algorithms Engineer - Summer Placement 2027 | Bristol, UK | N/A | 2026-09-14 | 59 | simplify-2026 |
@@ -943,7 +941,6 @@
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359) | Associate Intern - Lending Automation Technology & Solutions | Pensacola, FL, Vienna, VA | Summer 2027 | 2026-09-09 | 64 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) | Security Workflow Engineer Intern | Vienna, VA | Summer 2027 | 2026-09-09 | 64 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Developer Intern - AI Solutions | Ottawa, ON, Canada | Winter 2027 | 2026-09-09 | 64 | simplify-2026 |
-| [K2 Space](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008) | Simulation Software Engineering Intern | LA | Summer 2027 | 2026-09-09 | 64 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168315) | Software Engineer Intern | SF | Summer 2027 | 2026-09-09 | 64 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396) | Software Development Intern - DeltaV | Austin, TX | Summer 2026 | 2026-09-09 | 64 | simplify-2026 |
 | [TruStage](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155) | Information Technology Development and Infrastructure Intern | Madison, WI | Summer 2027 | 2026-09-09 | 64 | simplify-2026, vanshb03-2026, vanshb03-2027 |
